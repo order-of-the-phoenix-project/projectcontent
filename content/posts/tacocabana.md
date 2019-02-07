@@ -17,4 +17,7 @@ draft: true
 
 ##### I agree with you. Taco Cabana has good quality and is cheap. You wouldn't be wrong if you want something fast, good, and cheap.
 
+I will go for the margaritas! 
+![Margarita](/posts/images/margaritas-monday.png)
+
 
