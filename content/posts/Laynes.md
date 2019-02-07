@@ -22,4 +22,6 @@ The only thing really worth it is their sauce. Why not just buy the sauce itself
 
 ###### I agree with you Andrew. I have gone there at least two times and it wasn't that great.
 
+###### This post offends me on a spiritual level. Though thick and thin, Laynes has been present to provide chicken that, while admittedly fails to stand out, serves as an ideal vessle for the ambrosia that is Laynes sauce. Sure, your body will implode as the sight of chicken slathered in a ketchup/mayo mixture, but for a brief moment, your cares will drift away, awash in a sea of salty goodness. Suffice to say, I do not agree with you Andrew.
+
 ![laynesSauce](https://www.bing.com/th?id=OIP.gAkS5Q-edJwIQuJsKyj_VwHaE8&w=294&h=191&c=7&o=5&dpr=1.125&pid=1.7)
