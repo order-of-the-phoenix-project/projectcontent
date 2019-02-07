@@ -9,3 +9,5 @@ draft: true
 # Layne's really isn't that good
 
 Sure, it sounds good. A box of chicken strips, french fries, toast, and that amazing Layne's sauce. But the sauce is about the only good thing.
+
+###### I agree with you Andrew. I have gone there at least two times and it wasn't that great.
