@@ -6,6 +6,8 @@ draft: true
 
 # Fat Burger Grill
 
+![Fat Burger Grill](/posts/images/logo-fat-burger-grill.gif)
+
 ### Located at 11907 FM 2154 Rd #101, College Station, TX 77845
 ### Hours of Operation 11:00am -12:00am
 
