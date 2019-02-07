@@ -1,0 +1,4 @@
+baseURL = "http://order-of-the-phoenix-project.github.io/"
+languageCode = "en-us"
+title = "Project #2"
+theme = "ananke"
