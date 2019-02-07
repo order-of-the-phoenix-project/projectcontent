@@ -21,3 +21,5 @@ Their toast is nothing special
 The only thing really worth it is their sauce. Why not just buy the sauce itself and get better chicken elsewhere?
 
 ###### I agree with you Andrew. I have gone there at least two times and it wasn't that great.
+
+![laynesSauce](https://www.bing.com/th?id=OIP.gAkS5Q-edJwIQuJsKyj_VwHaE8&w=294&h=191&c=7&o=5&dpr=1.125&pid=1.7)
