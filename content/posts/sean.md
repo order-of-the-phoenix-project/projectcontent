@@ -18,3 +18,6 @@ draft: true
 ##Be Warned! Eating a Potbelly Sandwich Will Ruin Subway For you!
 
  I had Potbelly once and it is was good, but it still doesn't beat Subway in my opinion. Just the smell of the fresh bread walking into Subway is a plus.
+
+
+**Andrew** -- I usually get Subway when their coupons show up in my mailbox. Haven't tried Potbelly Sandwich Shop. Maybe I'll try it out sometime soon to see how it compares.

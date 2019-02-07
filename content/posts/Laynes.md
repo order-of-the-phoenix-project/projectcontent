@@ -14,9 +14,9 @@ Layne's chicken is dry. You get juicier chicken from the frozen isle at Walmart.
 
 Layne's chicken is greasy. If your stomach can barely handle it, you know it's not good for you.
 
-Their fries are the same generic kind you can get anywhere
+Their fries are the same generic kind you can get anywhere.
 
-Their toast is nothing special
+Their toast is nothing special.
 
 The only thing really worth it is their sauce. Why not just buy the sauce itself and get better chicken elsewhere?
 
