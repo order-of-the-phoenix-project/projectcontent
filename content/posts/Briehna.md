@@ -12,10 +12,7 @@ Chipotle is a Mexican Grill fast-food restruant. Chipotle serves salads, burrrit
 
 ![Chipotle2](https://assets3.thrillist.com/v1/image/2739931/size/tmg-article_default_mobile.jpg)
 
-##### Chipotle is BETTER! 
-
-
-
+### Chipotle is BETTER! 
 
 
 
