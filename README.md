@@ -11,8 +11,7 @@ Then you'll start typing "Environment Variables" in your Windows search bar. It'
 
 Once you have that set up, go to Github Desktop and clone order-of-the-phoenix-project/projectcontent to the Local path 'C:\Hugo\Sites\projectcontent'.
 
-Then open your file browser and go to C:\Hugo\Sites\projectcontent and you should see folders called "archetypes", "content", "themes" and a file called ".gitmodules" and another called "config.toml". If you don't, talk to Andrew. If you do, in that same folder, create a folder called "public".
-
+Then open your file browser and go to C:\Hugo\Sites\projectcontent and you should see folders called "archetypes", "content", "themes" and a file called ".gitmodules" and another called "config.toml". At this point, if you see a folder called "public", go ahead and delete it along with all of it's contents, then create that same folder called "public". Recreating it will allow you to continue the next step.
 
 Once you have that folder created, go back to Github Desktop and clone order-of-the-phoenix-project/order-of-the-phoenix-project.github.io to the Local path "C:\Hugo\Sites\projectcontent\public"
 
