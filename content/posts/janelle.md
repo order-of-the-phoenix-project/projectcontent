@@ -19,3 +19,5 @@ draft: true
 
 ###### 
 ![fatburgers_on_astick](https://www.bing.com/th?id=OIP.rfPvHpl22EV6yuZ6HckVnAHaFj&w=279&h=209&c=7&o=5&dpr=1.125&pid=1.7)
+
+####### I never had Fat Burger but it sounds good. I will have to see if there's one in Houston.
