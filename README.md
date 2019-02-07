@@ -1,4 +1,8 @@
-# projectcontent
+# Project Content repo
+
+---
+# Instructions for environment setup and publishing content:
+
 
 ## Downloading to your PC:
 
