@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project #2</title>
+    <link>http://order-of-the-phoenix-project.github.io/</link>
+    <description>Recent content on Project #2</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Feb 2019 19:55:59 -0600</lastBuildDate>
+    
+	<atom:link href="http://order-of-the-phoenix-project.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Post</title>
+      <link>http://order-of-the-phoenix-project.github.io/posts/test-post/</link>
+      <pubDate>Wed, 06 Feb 2019 19:55:59 -0600</pubDate>
+      
+      <guid>http://order-of-the-phoenix-project.github.io/posts/test-post/</guid>
+      <description>#This is a test!</description>
+    </item>
+    
+  </channel>
+</rss>
