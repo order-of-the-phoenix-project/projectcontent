@@ -4,7 +4,7 @@ date: 2019-02-07T12:46:14-06:00
 draft: true
 ---
 
-![Layne's Picture](/static/laynes-original-location.jpg)
+![Layne's Picture](/posts/images/laynes-original-location.jpg)
 
 # Layne's really isn't that good
 

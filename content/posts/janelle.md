@@ -16,4 +16,4 @@ draft: true
 ###### Ordered the heavyweight (1/2 lb) burger combo with cheese and it was delicious!  Burger was bigger than I expected and the curly fries were perfection. The service I received was very accommodating and friendly. I highly recommend Fat Burger for anyone wanting a delicious burger for a great price!
 
 ###### 
-
+![fatburgers_on_astick](https://www.bing.com/th?id=OIP.rfPvHpl22EV6yuZ6HckVnAHaFj&w=279&h=209&c=7&o=5&dpr=1.125&pid=1.7)
