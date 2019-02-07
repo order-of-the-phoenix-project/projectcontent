@@ -11,3 +11,5 @@ draft: true
 
 <h1>Cheaper by the Dozen</h1>
 <p>You might think that this incredible quality and speed would only be accessible to the most upper-class among us, but nay! Each taco you purchase comes at a marginal cost of just above a dollar, potentially cheapened even further when purchased in bulk!</p>
+
+![Taco_Cabana](https://www.bing.com/th?id=OIP.9DQaavlKJuJjHeJl-dg4FAHaHa&w=208&h=208&c=7&o=5&dpr=1.125&pid=1.7)
