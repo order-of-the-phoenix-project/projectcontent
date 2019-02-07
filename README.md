@@ -3,11 +3,16 @@
 ## Downloading to your PC:
 
 Follow the steps here: https://gohugo.io/getting-started/installing/#windows
+
 Basically just create those directories (C:\Hugo\bin and C:\Hugo\Sites) and then download the Hugo zip file and extract the contents to C:\Hugo\bin.
+
 Then you'll start typing "Environment Variables" in your Windows search bar. It'll bring up something that says "Edit the system environment variables". Select that, then select "Environment Variables". Under "User Variables", find one that says "Path" and double-click on it. Then hit "New" and type "C:\Hugo\bin". Hit OK on that window along with the rest to exit out of there.
 
+
 Once you have that set up, go to Github Desktop and clone order-of-the-phoenix-project/projectcontent to the Local path 'C:\Hugo\Sites\projectcontent'.
+
 Then open your file browser and go to C:\Hugo\Sites\projectcontent and you should see folders called "archetypes", "content", "themes" and a file called ".gitmodules" and another called "config.toml". If you don't, talk to Andrew. If you do, in that same folder, create a folder called "public".
+
 
 Once you have that folder created, go back to Github Desktop and clone order-of-the-phoenix-project/order-of-the-phoenix-project.github.io to the Local path "C:\Hugo\Sites\projectcontent\public"
 
